@@ -1,23 +1,14 @@
 # Hardware-in-the-Loop (HIL) Framework
 ## Using NASA Trick and NASA cFS
 
-This project demonstrates a **basic educational HIL architecture**
+This project is meant to demonstrate a **basic HIL architecture**
 integrating:
 
 - Trick Simulation Environment
 - NASA Core Flight System (cFS)
 - A simple socket-based HIL interface layer
 
----
-
-## 📚 Educational Objective
-
-This scaffold helps you learn:
-
-1. How Trick schedules simulation time and models.
-2. How cFS runs flight software as message-driven applications.
-3. How to connect both through a transport interface (socket middleware).
-4. How HIL architecture works conceptually.
+The goal is to hopefully build this out into a general aircraft model for a typical RC plane, using model predictive control (MPC) instead of the currently attempted PID.
 
 ---
 
