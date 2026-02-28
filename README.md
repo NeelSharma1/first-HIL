@@ -55,4 +55,4 @@ hil_interface/ → TCP transport middleware
 
 ---
 
-This framework is intentionally minimal and heavily commented.
+This framework is intentionally minimal and heavily commented. Docs are primarily AI generated.
